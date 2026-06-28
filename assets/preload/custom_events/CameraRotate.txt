@@ -1,0 +1,3 @@
+Rotates camera left or right
+
+Value 1: Rotation angle
